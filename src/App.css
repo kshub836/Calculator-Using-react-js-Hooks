@@ -1,0 +1,69 @@
+body {
+  background-color: antiquewhite;
+  height: 30vh;
+}
+.container{
+  margin: 0 auto;
+  border: 5px solid black;
+  width: 295px;
+  height: 542px;
+  margin-top: 10px;
+  background-color: rgb(40, 46, 48);
+  border-radius: 10px;
+}
+.calci {
+  width: 320px;
+  margin: 80px auto;
+  height: 60px;
+}
+
+#shubh {
+  background-color: rgba(221, 215, 215, 0.789);
+  padding: 10px;
+  font-size: 40px;
+  height: 50px;
+  width: 265px;
+  text-align: right;
+  border-radius: 20px;
+  border-color: black;
+  color: black;
+  margin: 4px;
+}
+.button {
+  background-color: rgb(198, 220, 229);
+  height: 70px;
+  width: 70px;
+  color: black;
+  font-size: 30px;
+  border-radius: 30px;
+  float: left;
+  font-weight: 100;
+  margin: 2px;
+}
+.button1 {
+  width: 145px;
+  background-color: rgba(138, 187, 242, 0.843);
+  margin: 2px;
+}
+.AC {
+  background-color: rgb(155, 134, 198);
+  height: 70px;
+  width: 70px;
+  color: black;
+  font-size: 30px;
+  border-radius: 30px;
+  float: left;
+  font-weight: 100;
+  margin: 2px;
+}
+.Button2 {
+  background-color: rgba(138, 187, 242, 0.843);
+  height: 70px;
+  width: 70px;
+  color: black;
+  font-size: 30px;
+  border-radius: 30px;
+  float: left;
+  font-weight: 100;
+  margin: 2px;
+}
